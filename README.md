@@ -1,1 +1,1 @@
-# Lab 4 - Banch coverage
+# Lab 4 - Branch coverage
